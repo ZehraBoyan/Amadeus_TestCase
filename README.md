@@ -1,4 +1,4 @@
-# Amadeus Test Case Test Automation
+# Flight Search Application QA Tests
 
 This project includes some basic test cases on a specific web application. The project is developed using [IntelliJ IDEA](https://www.jetbrains.com/idea/) and has the following Maven dependencies:
 
